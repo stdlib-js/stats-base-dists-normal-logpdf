@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-05-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e78de77`](https://github.com/stdlib-js/stdlib/commit/e78de77d7342c529cca274c49704472e892f1084) - **test:** add missing skips for native add-on tests _(by Philipp Burckhardt)_
 -   [`8557c81`](https://github.com/stdlib-js/stdlib/commit/8557c813e952be8e7e6c4b4360b39373a3ac0dd7) - **feat:** add C implementation for `stats/base/dists/normal/logpdf` [(#3991)](https://github.com/stdlib-js/stdlib/pull/3991) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 
 </details>
