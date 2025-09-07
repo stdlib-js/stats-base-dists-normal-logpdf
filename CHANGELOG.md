@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-09-07)
 
 <section class="features">
 
@@ -34,6 +34,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`e78de77`](https://github.com/stdlib-js/stdlib/commit/e78de77d7342c529cca274c49704472e892f1084) - **test:** add missing skips for native add-on tests _(by Philipp Burckhardt)_
 -   [`8557c81`](https://github.com/stdlib-js/stdlib/commit/8557c813e952be8e7e6c4b4360b39373a3ac0dd7) - **feat:** add C implementation for `stats/base/dists/normal/logpdf` [(#3991)](https://github.com/stdlib-js/stdlib/pull/3991) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 
