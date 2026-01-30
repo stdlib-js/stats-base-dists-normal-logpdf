@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-normal-logpdf",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Natural logarithm of the probability density function (PDF) for a normal distribution.",
   "license": "Apache-2.0",
   "author": {
@@ -47,7 +47,7 @@
     "@stdlib/math-base-napi-ternary": "^0.3.1",
     "@stdlib/math-base-special-ln": "^0.2.4",
     "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/stats-base-dists-degenerate-logpdf": "^0.2.1",
+    "@stdlib/stats-base-dists-degenerate-logpdf": "^0.3.0",
     "@stdlib/utils-constant-function": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.3"
