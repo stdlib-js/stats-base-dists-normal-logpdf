@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-08)
+## Unreleased (2026-04-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 -   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Mara Averick
+-   anee3
 
 </section>
 
